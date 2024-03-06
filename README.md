@@ -1,4 +1,4 @@
-# RealEstatePrediction
+# House Price Prediction
 
 This project is focused on building a machine learning model to predict house prices in Bangalore, India. It involves several key steps, including data preprocessing, feature engineering, outlier removal, model selection.The project aims to provide a practical solution for homebuyers, sellers, and real estate enthusiasts in estimating property prices.
 
